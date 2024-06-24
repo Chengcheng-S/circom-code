@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "snarkjs": "^0.7.4"
+  },
+  "scripts": {
+    "verify" :"node verify.js" 
+  }
+}

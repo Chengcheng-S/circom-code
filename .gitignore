@@ -1,0 +1,15 @@
+.DS_Store
+
+**/**/*.zkey
+**/**/*.ptau
+**/**/proof.json
+**/**/public.json 
+**/**/witness.wtns
+
+*.r1cs
+*.sym
+
+
+
+.vscode/
+node_modules/
