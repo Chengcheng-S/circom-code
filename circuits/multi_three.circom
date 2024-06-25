@@ -1,6 +1,6 @@
 pragma circom 2.1.9;
 
-include "./2mulit.circom";
+include "./multi_two.circom";
 
 template Multipiler3(){
     signal input in1;
